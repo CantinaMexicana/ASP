@@ -27,7 +27,9 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#eaeff1"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.15",
@@ -44,11 +46,11 @@
     "cookiesAlert": {
       "colorText": "#424a4d",
       "colorBg": "#eaeff1",
-      "colorButton": "#ffffff",
+      "colorButton": "#ff3366",
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacity": "99",
-      "text": "Nasza strona używa plików cookiedoqwiedz się więcej <a href='privacy.html'>cookie policy</a>."
+      "text": "Nasza strona używa plików cookies. Dowiedz się więcej <a href='privacy.html'>cookie policy</a>."
     },
     "gdpr": {
       "colorText": "#a7a7a7",
