@@ -1196,27 +1196,6 @@ section.lazy-placeholder:after {
   -webkit-flex-direction: row-reverse;
   flex-direction: row-reverse;
 }
-.cid-rUJ7dJslBq {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rUJ7dJslBq .title {
-  margin-bottom: 2rem;
-}
-.cid-rUJ7dJslBq .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rUJ7dJslBq a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rUJ7dJslBq a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rUJ7dJslBq textarea.form-control {
-  min-height: 188px;
-}
 .cid-rUJc3ym0Dh {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1257,26 +1236,6 @@ section.lazy-placeholder:after {
     font-size: 40px !important;
   }
 }
-.cid-rUJc50tR0o {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/background5.jpg");
-}
-.cid-rUJc50tR0o h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-rUJc50tR0o p {
-  color: #767676;
-  text-align: left;
-}
-.cid-rUJc50tR0o .card-img {
-  text-align: left;
-}
-.cid-rUJc50tR0o .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
 .cid-rUJc6kFhBc {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1308,4 +1267,123 @@ section.lazy-placeholder:after {
 }
 .cid-rUJc6kFhBc P {
   color: #ff3366;
+}
+.cid-rUJc50tR0o {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/background5.jpg");
+}
+.cid-rUJc50tR0o h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rUJc50tR0o p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rUJc50tR0o .card-img {
+  text-align: left;
+}
+.cid-rUJc50tR0o .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-rUJ7dJslBq {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rUJ7dJslBq .title {
+  margin-bottom: 2rem;
+}
+.cid-rUJ7dJslBq .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rUJ7dJslBq a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rUJ7dJslBq a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rUJ7dJslBq textarea.form-control {
+  min-height: 188px;
+}
+.cid-rUJgqKPyCt {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rUJgqKPyCt .row-links {
+  width: 100%;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rUJgqKPyCt .social-row {
+  width: 100%;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rUJgqKPyCt .media-container-row {
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.cid-rUJgqKPyCt .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-rUJgqKPyCt .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-rUJgqKPyCt .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-rUJgqKPyCt .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rUJgqKPyCt .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-rUJgqKPyCt .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rUJgqKPyCt .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rUJgqKPyCt .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rUJgqKPyCt .media-container-row .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+.cid-rUJgqKPyCt .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-rUJgqKPyCt .media-container-row .row-copirayt p {
+  width: 100%;
 }
