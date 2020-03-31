@@ -50,13 +50,13 @@
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacity": "99",
-      "text": "Nasza strona używa plików cookies. Dowiedz się więcej <a href='privacy.html'>cookie policy</a>."
+      "text": "Nasza strona używa plików cookies. Dowiedz się więcej <a href='RODO.html'>cookie policy</a>."
     },
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": true,
-      "text": "Przechodząc dalej zgadzasz się na nasze zasady zawarte <a href='terms.html'>Warunki Serwisu</a> i <a href='policy.html'>Polityka prywatności</a>."
+      "text": "Przechodząc dalej zgadzasz się na nasze zasady zawarte <a href='terms.html'>Warunki Serwisu</a> i <a href='RODO.html'>Polityka prywatności</a>."
     },
     "favicon": "",
     "noImageResize": "",
