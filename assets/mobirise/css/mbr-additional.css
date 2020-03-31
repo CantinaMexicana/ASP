@@ -1116,10 +1116,34 @@ section.lazy-placeholder:after {
 .cid-rUJ50qaR5T .dropdown-item:hover {
   color: #ff3366 !important;
 }
-.cid-rUJ50QJx6n {
-  padding-top: 90px;
+.cid-rUJFWohjdU {
+  padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/verysmallasp-1-518x185.jpeg");
+  background-color: #cccccc;
+}
+.cid-rUJFWohjdU .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+  color: #232323;
+}
+.cid-rUJFWohjdU .mbr-author-name {
+  font-weight: bold;
+  color: #ff3366;
+}
+.cid-rUJFWohjdU .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-rUJFWohjdU .mbr-figure,
+  .cid-rUJFWohjdU img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+  .cid-rUJFWohjdU .media-content {
+    padding-top: 1.5rem !important;
+  }
 }
 .cid-rUJ6AyDyuP {
   padding-top: 90px;
@@ -1327,26 +1351,6 @@ section.lazy-placeholder:after {
 }
 .cid-rUJc6kFhBc P {
   color: #ff3366;
-}
-.cid-rUJc50tR0o {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/background5.jpg");
-}
-.cid-rUJc50tR0o h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-rUJc50tR0o p {
-  color: #767676;
-  text-align: left;
-}
-.cid-rUJc50tR0o .card-img {
-  text-align: left;
-}
-.cid-rUJc50tR0o .card-img span {
-  font-size: 72px;
-  color: #707070;
 }
 .cid-rUJ7dJslBq {
   padding-top: 90px;
