@@ -56,7 +56,7 @@
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": true,
-      "text": "Przechodząc dalej zgadzasz się na nasze zasady zawarte <a href='https://uodo.gov.pl/pl/p/poradniki'>Warunki Serwisu</a> i <a href='https://uodo.gov.pl/pl/p/poradniki'>Polityka prywatności</a>."
+      "text": "Przechodząc dalej zgadzasz się na nasze zasady zawarte <a target=\"_blank\"  href='https://uodo.gov.pl/pl/p/poradniki'>Warunki Serwisu</a> i <a href='https://uodo.gov.pl/pl/p/poradniki'>Polityka prywatności</a>."
     },
     "favicon": "",
     "noImageResize": "",
