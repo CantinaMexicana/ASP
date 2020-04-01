@@ -50,7 +50,7 @@
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacity": "99",
-      "text": "Nasza strona używa plików cookies. Dowiedz się więcej <a href='https://pl.wikipedia.org/wiki/HTTP_cookie'>Polityka cookies </a>.\n"
+      "text": "Nasza strona używa plików cookies. Dowiedz się więcej <a href='RODO.htlm'>Polityka cookies !</a>.\n"
     },
     "gdpr": {
       "colorText": "#a7a7a7",
