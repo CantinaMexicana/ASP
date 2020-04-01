@@ -50,7 +50,7 @@
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacity": "99",
-      "text": "Nasza strona używa plików cookies. Dowiedz się więcej <a href='RODO.htlm'>Polityka cookies !</a>.\n"
+      "text": "<section id=\"cookie-warn\">\n    <p><strong>UWAGA!</strong> Niniejsza strona wykorzystuje pliki cookies. \n    Informacje uzyskane za pomocą cookies wykorzystywane są głównie \n    w celach statystycznych. Pozostając na stronie godzisz się na \n    ich zapisywanie w Twojej przeglądarce. \n    <a href=\"javascript:void(0);\" id=\"close-cookie-warn\"\n    >Zamknij ostrzeżenie</a></p>\n</section>\n"
     },
     "gdpr": {
       "colorText": "#a7a7a7",
