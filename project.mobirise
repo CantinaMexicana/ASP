@@ -50,7 +50,7 @@
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacity": "99",
-      "text": "Nasza strona używa plików cookies. Dowiedz się więcej <a href='https://uodo.gov.pl/pl/404/224'>Polityka cookies</a\\n>."
+      "text": "Nasza strona używa plików cookies. Dowiedz się więcej <a href='https://uodo.gov.pl/pl/404/224'\\n>Polityka cookies</a>."
     },
     "gdpr": {
       "colorText": "#a7a7a7",
@@ -62,8 +62,8 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
-    "robotsSwitcher": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
     "sitemapSwitcherAuto": "on"
   },
   "pages": {
